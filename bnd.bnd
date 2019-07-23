@@ -1,0 +1,4 @@
+Bundle-Name: GetDestinationList
+Bundle-SymbolicName: com.consistent.destination
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
